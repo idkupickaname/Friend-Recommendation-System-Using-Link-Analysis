@@ -33,7 +33,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
     ```sh
-    git clone [https://github.com/drohan0717/Friend-Recommendation-System-Using-Link-Analysis.git]
+    git clone [https://github.com/idkupickaname/Friend-Recommendation-System-Using-Link-Analysis.git]
     ```
 
 ## Usage
